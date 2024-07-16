@@ -1,0 +1,4 @@
+.data
+.vector_cache
+best_model.pt
+__pychache__
